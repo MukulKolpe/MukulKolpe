@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, JavaScript, Kotlin, Node.js, Express.js**
 
-- 📫 How to reach me **mukulkolpe45@gmail.com**
+- 📫 You can also reach out to me at **mukulkolpe45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
