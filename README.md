@@ -27,7 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulkolpe&show_icons=true&locale=en" alt="mukulkolpe" /></p>
 
-<a href="https://github.com/MukulKolpe/MukulKolpe/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MukulKolpe/MukulKolpe" />
-</a>
-
