@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukul Kolpe</h1>
-<h3 align="center">I’m a freshman pursuing B.E. in Information Technology from Mumbai University.</h3>
+<h3 align="center">I’m a freshman pursuing B.E. in Information Technology from University of Mumbai.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulkolpe&label=Profile%20views&color=0e75b6&style=flat" alt="mukulkolpe" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java, JavaScript, Kotlin, Node.js, Express.js**
+- 💬 Ask me about **Java, JavaScript, React.js, Kotlin, Node.js, Express.js**
 
 - 📫 You can also reach out to me at **mukulkolpe45@gmail.com**
 
