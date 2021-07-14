@@ -27,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulkolpe&show_icons=true&locale=en" alt="mukulkolpe" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MukulKolpe)  
