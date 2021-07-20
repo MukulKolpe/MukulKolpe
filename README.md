@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java, JavaScript, React.js, Kotlin, Node.js, Express.js**
+- 💬 Ask me about **Java, JavaScript, React.js**
 
 - 📫 You can also reach out to me at **mukulkolpe45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mukulkolpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukulkolpe" height="30" width="40" /></a>
+<a href="https://twitter.com/MukulKolpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukulkolpe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukulkolpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulkolpe" height="30" width="40" /></a>
 <a href="https://instagram.com/mukul_kolpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul_kolpe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukulkolpe45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukulkolpe45" height="30" width="40" /></a>
