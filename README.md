@@ -30,7 +30,7 @@
   
   
   
-  <td>
+  <td align="center">
   
   
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukulKolpe&show_icons=true)  
@@ -39,7 +39,7 @@
   </td>
   
   
-  <td rowspan="2">
+  <td rowspan="2" align="center">
    
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukulKolpe)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,7 +57,7 @@
   
   
   
-  <td>
+  <td align="center">
   
   
    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MukulKolpe)  
