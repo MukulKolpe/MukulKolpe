@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulkolpe&label=Profile%20views&color=0e75b6&style=flat" alt="mukulkolpe" /> </p>
 
-- 🔭 I’m currently working on **Google Cloud Platform**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
