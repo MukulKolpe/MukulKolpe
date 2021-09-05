@@ -80,7 +80,7 @@
  
 ___________________________________________________________________________________________________________________________________________________________________
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MukulKolpe)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MukulKolpe&theme=dracula)
  
 
 
