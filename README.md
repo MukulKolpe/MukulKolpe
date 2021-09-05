@@ -27,13 +27,24 @@ ________________________________________________________________________________
 
 
 ___________________________________________________________________________________________________________________________________________________________________
-  
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukulKolpe&show_icons=true&theme=dracula) 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MukulKolpe&theme=dracula)  
  
-___________________________________________________________________________________________________________________________________________________________________
+ <table>
+  <tr>
+    <td>
+    
+      
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukulKolpe&show_icons=true&theme=dracula)
+   </td>
+    
+    
+   <td>  
+    
+  
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MukulKolpe&theme=dracula)
+     </td>
+      </tr>
+  </table>
+    
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MukulKolpe&&theme=dracula)
  
