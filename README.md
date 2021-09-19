@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Kupul's+GitHub+Profile!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulkolpe&label=Profile%20views&color=0e75b6&style=flat" alt="mukulkolpe" /> </p>
 <h1 align="center">Hi 👋, I'm Mukul Kolpe</h1>
 <h3 align="center">I’m a sophomore year student from University of Mumbai.</h3>
