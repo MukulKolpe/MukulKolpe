@@ -11,8 +11,8 @@
 
 - 📫 You can also reach out to me at **mukulkolpe45@gmail.com**
 
-## Connect with me
-
+## Connect with me  
+![Twitter Follow](https://img.shields.io/twitter/follow/MukulKolpe?color=1DA1F2&logo=twitter&style=for-the-badge)
 <p align="left">
 <a href="https://twitter.com/MukulKolpe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukulkolpe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukulkolpe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulkolpe" height="30" width="40" /></a>
