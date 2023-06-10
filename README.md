@@ -50,4 +50,4 @@ ________________________________________________________________________________
       </tr>
   </table>
 
-[![Mukul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MukulKolpe&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mukul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MukulKolpe&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
