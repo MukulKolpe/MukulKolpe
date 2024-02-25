@@ -12,7 +12,8 @@
 - 📫 You can also reach out to me at **mukulkolpe45@gmail.com**
 
 ## 🌐 Socials  
-![Twitter Follow](https://img.shields.io/twitter/follow/MukulKolpe?color=1DA1F2&logo=twitter&style=for-the-badge)  
+![Twitter Follow](https://img.shields.io/twitter/follow/MukulKolpe?color=1DA1F2&logo=twitter&style=for-the-badge) 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/MukulKolpe?style=for-the-badge&logo=github&label=Follow&color=1DA1F2"/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MukulKolpe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukulkolpe/)
